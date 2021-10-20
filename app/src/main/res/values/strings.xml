@@ -24,5 +24,48 @@
     <string name="show_password">Show Password</string>
     <string name="sign_in">Sign In</string>
     <string name="don_t_have_account_sign_up">Don\'t have account? Sign up.</string>
-    <string name="log_in_app">Log In App</string>
+    <string name="log_in_app">Language App Log In</string>
+
+    <!--Colors-->
+    <string name="red">Red</string>
+    <string name="mustard_yellow">Mustard Yellow</string>
+    <string name="dusty_yellow">Dusty Yellow</string>
+    <string name="green">Green</string>
+    <string name="brown">Brown</string>
+    <string name="gray">Gray</string>
+    <string name="black">Black</string>
+    <string name="white">White</string>
+    <!--Family-->
+    <string name="father">Father</string>
+    <string name="mother">Mother</string>
+    <string name="son">Son</string>
+    <string name="daughter">Daughter</string>
+    <string name="older_brother">Older Brother</string>
+    <string name="younger_brother">Younger Brother</string>
+    <string name="older_sister">Older Sister</string>
+    <string name="younger_sister">Younger Sister</string>
+    <string name="grandmother">Grandmother</string>
+    <string name="grandfather">Grandfather</string>
+    <!--Numbers-->
+    <string name="one">One</string>
+    <string name="two">Two</string>
+    <string name="three">Three</string>
+    <string name="four">Four</string>
+    <string name="five">Five</string>
+    <string name="six">Six</string>
+    <string name="seven">Seven</string>
+    <string name="eight">Eight</string>
+    <string name="nine">Nine</string>
+    <string name="ten">Ten</string>
+    <!--Phrases-->
+    <string name="phrase1">Where are you going?</string>
+    <string name="phrase2">What is your name?</string>
+    <string name="phrase3">My name is...</string>
+    <string name="phrase4">How are you feeling?</string>
+    <string name="phrase5">I’m feeling good.</string>
+    <string name="phrase6">Are you coming?</string>
+    <string name="phrase7">Yes, I’m coming.</string>
+    <string name="phrase8">I’m coming.</string>
+    <string name="phrase9">Let’s go.</string>
+    <string name="phrase10">Come here.</string>
 </resources>

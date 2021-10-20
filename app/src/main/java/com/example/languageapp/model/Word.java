@@ -5,8 +5,8 @@ public class Word {
     //Default Translation for word
     private final String mDefaultTranslation;
 
-    // Miwok Translation for word
-    private final String mMiwokTranslation;
+    // Arabic Translation for word
+    private final String mArabicTranslation;
 
     private int mImageResourceId = NO_IMAGE_PROVIDED;
 
@@ -19,17 +19,17 @@ public class Word {
 
     // create a new word object
 
-    public Word(String defaultTranslation, String miwokTranslation, int audioResourceId) {
+    public Word(String defaultTranslation, String arabicTranslation, int audioResourceId) {
         mDefaultTranslation = defaultTranslation;
-        mMiwokTranslation = miwokTranslation;
+        mArabicTranslation = arabicTranslation;
         mAudioResourceId = audioResourceId;
 
     }
 
 
-    public Word(String defaultTranslation, String miwokTranslation, int imageResourceId,int audioResourceId) {
+    public Word(String defaultTranslation, String arabicTranslation, int imageResourceId,int audioResourceId) {
                 mDefaultTranslation = defaultTranslation;
-                mMiwokTranslation = miwokTranslation;
+                mArabicTranslation = arabicTranslation;
                 mImageResourceId = imageResourceId;
         mAudioResourceId = audioResourceId;
             }
@@ -40,9 +40,9 @@ public class Word {
     }
 
 
-    // get the miwok translation for word
-    public String getmMiwokTranslation() {
-        return mMiwokTranslation;
+    // get the arabic translation for word
+    public String getmArabicTranslation() {
+        return mArabicTranslation;
     }
 
 

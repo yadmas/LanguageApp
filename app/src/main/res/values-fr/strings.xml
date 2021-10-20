@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Demande de langue</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Couleurs</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Nombres</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Famille</string>
+
+
+    <string name="hello_blank_fragment">Bonjour fragment vierge</string>
+    <string name="log_out">Se déconnecter</string>
+    <string name="click_to_view">Clique pour voir</string>
+    <string name="name">Nom</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="password">Mot de passe</string>
+    <string name="confirm_password">Confirmez le mot de passe</string>
+    <string name="show_password">Montrer le mot de passe</string>
+    <string name="sign_in">S\'identifier</string>
+    <string name="don_t_have_account_sign_up">Vous n\'avez pas de compte ? S\'inscrire.</string>
+    <string name="log_in_app">Langue App Connexion</string>
+
+    <!--Colors-->
+    <string name="red">rouge</string>
+    <string name="mustard_yellow">Jaune moutarde</string>
+    <string name="dusty_yellow">Jaune poussiéreux</string>
+    <string name="green">Vert</string>
+    <string name="brown">Brun</string>
+    <string name="gray">Gris</string>
+    <string name="black">Noir</string>
+    <string name="white">Blanc</string>
+    <!--Family-->
+    <string name="father">Père</string>
+    <string name="mother">Mère</string>
+    <string name="son">Fils</string>
+    <string name="daughter">La fille</string>
+    <string name="older_brother">Grand frère</string>
+    <string name="younger_brother">Frère cadet</string>
+    <string name="older_sister">Sœur aînée</string>
+    <string name="younger_sister">Sœur cadette</string>
+    <string name="grandmother">Grand-mère</string>
+    <string name="grandfather">Grand-père</string>
+    <!--Numbers-->
+    <string name="one">Un</string>
+    <string name="two">Deux</string>
+    <string name="three">Trois</string>
+    <string name="four">Quatre</string>
+    <string name="five">Cinq</string>
+    <string name="six">Six</string>
+    <string name="seven">Sept</string>
+    <string name="eight">Huit</string>
+    <string name="nine">Neuf</string>
+    <string name="ten">Dix</string>
+    <!--Phrases-->
+    <string name="phrase1">Où allez-vous?</string>
+    <string name="phrase2">Quel est ton nom?</string>
+    <string name="phrase3">Mon nom est…</string>
+    <string name="phrase4">Comment allez-vous?</string>
+    <string name="phrase5">Je me sens bien.</string>
+    <string name="phrase6">Viens-tu?</string>
+    <string name="phrase7">Oui, je viens.</string>
+    <string name="phrase8">J\'arrive.</string>
+    <string name="phrase9">Allons-y.</string>
+    <string name="phrase10">Viens ici.</string>
+</resources>

@@ -82,14 +82,14 @@ public class ColorsFragment extends Fragment {
         final ArrayList<Word> words = new ArrayList<>();
 
 
-        words.add(new Word("red", "weṭeṭṭi", R.mipmap.color_red,R.raw.color_red));
-        words.add(new Word("mustard yellow", "chiwiiṭә", R.mipmap.color_mustard_yellow,R.raw.color_mustard_yellow));
-        words.add(new Word("dusty yellow", "ṭopiisә", R.mipmap.color_dusty_yellow,R.raw.color_dusty_yellow));
-        words.add(new Word("green", "chokokki", R.mipmap.color_green,R.raw.color_green));
-        words.add(new Word("brown", "ṭakaakki", R.mipmap.color_brown,R.raw.color_brown));
-        words.add(new Word("gray", "ṭopoppi", R.mipmap.color_gray,R.raw.color_gray));
-        words.add(new Word("black", "kululli", R.mipmap.color_black,R.raw.color_black));
-        words.add(new Word("white", "kelelli", R.mipmap.color_white,R.raw.color_white));
+        words.add(new Word(getResources().getString(R.string.red), "أحمر", R.mipmap.color_red,R.raw.color_red));
+        words.add(new Word(getResources().getString(R.string.mustard_yellow), "أصفر الخردل", R.mipmap.color_mustard_yellow,R.raw.color_mustard_yellow));
+        words.add(new Word(getResources().getString(R.string.dusty_yellow), "أصفر مغبر", R.mipmap.color_dusty_yellow,R.raw.color_dusty_yellow));
+        words.add(new Word(getResources().getString(R.string.green), "أخضر", R.mipmap.color_green,R.raw.color_green));
+        words.add(new Word(getResources().getString(R.string.brown), "بني", R.mipmap.color_brown,R.raw.color_brown));
+        words.add(new Word(getResources().getString(R.string.gray), "رمادي", R.mipmap.color_gray,R.raw.color_gray));
+        words.add(new Word(getResources().getString(R.string.black), "أسود", R.mipmap.color_black,R.raw.color_black));
+        words.add(new Word(getResources().getString(R.string.white), "أبيض", R.mipmap.color_white,R.raw.color_white));
 
         // Create an {@link WordAdapter}, whose data source is a list of {@link Word}s. The
         // adapter knows how to create list items for each item in the list.
